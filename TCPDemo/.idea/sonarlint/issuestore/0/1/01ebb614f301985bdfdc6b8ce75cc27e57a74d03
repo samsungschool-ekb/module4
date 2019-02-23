@@ -1,10 +1,0 @@
-
-V
-squid:S106?"9Replace this use of System.out or System.err by a logger.(ÈŠõ8µ×‰º-
-squid:S1450"\Remove the "serverAddress" field and declare it as a local variable in the relevant methods.(Úõë®üÿÿÿÿ8îØú¹-
-Dsquid:S1170"!Make this final field static too.(ÂãŸùÿÿÿÿ8Š–ô¹-
-Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µ×‰º-
-?squid:S1170"!Make this final field static too.(‹ÿÆî8¿ñ¹-
-nsquid:S00116"ORename this field "PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÿÆî8¿ñ¹-
-Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µ×‰º-
-qsquid:S00116"MRename this field "IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂãŸùÿÿÿÿ8Š–ô¹-
