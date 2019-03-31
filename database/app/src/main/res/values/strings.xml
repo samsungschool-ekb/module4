@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Справочник</string>
+    <string name="user_add">Добавить пользователя</string>
+    <string name="button_done">Готово</string>
+    <string name="toast_user_added">Пользователь добавлен!</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="add_user">Добавить контакт</string>
+</resources>
